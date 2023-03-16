@@ -1,2 +1,4 @@
-# vivek
-my personal repository
+# Hi there 
+
+Im vivek 
+Python full stack developer
